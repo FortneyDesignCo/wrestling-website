@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-06-09-camp@gettysburgwrestling.com
+SUMMARY:2026 Gettysburg Wrestling Camp
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260612
+LOCATION:Gettysburg Middle School\, 37 Lefever Street\, Gettysburg\, PA 17325
+DESCRIPTION:Grades K-8\n$60 per wrestler\n5:30 PM - 8:00 PM each evening\nFamily Night Activities 8-9 PM\n\nFREE for Gettysburg Youth Club and Gettysburg Middle School Wrestlers\n\nCoaches: Levi Haines (World Champion)\, Zoey Haines (3x State Champion)\, Dylan Reinert (NC State)\, Tyler Withers (NCAA All American)\, Montana Delawder (Pan Am Champion)\n\nContact: Chris Haines - chaines@gasd-pa.org
+END:VEVENT
+END:VCALENDAR
