@@ -160,9 +160,84 @@ p {
   margin: 40px 0;
 }
 
-.coaching-grid {
-  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
-  gap: 32px;
+/* --- Events Page --- */
+.events-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 40px 0;
+}
+
+.event-card {
+  flex-direction: row;
+  align-items: stretch;
+  text-align: left;
+  padding: 0;
+  overflow: hidden;
+}
+
+.event-date-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: var(--primary-maroon);
+  color: #fff;
+  padding: 20px 28px;
+  min-width: 100px;
+}
+
+.event-month {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.event-day {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.event-details {
+  padding: 24px 28px;
+  flex: 1;
+}
+
+.event-details h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: var(--text-main);
+}
+
+.event-location {
+  font-size: 14px;
+  color: var(--primary-maroon);
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.event-description {
+  font-size: 15px;
+  color: var(--text-secondary);
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .event-card {
+    flex-direction: column;
+  }
+  .event-date-badge {
+    flex-direction: row;
+    gap: 8px;
+    padding: 12px 20px;
+    min-width: unset;
+  }
+  .event-day {
+    font-size: 24px;
+  }
 }
 
 .card {
@@ -190,14 +265,6 @@ p {
   margin-bottom: 20px;
 }
 
-.coach-card img {
-  width: 100%;
-  max-width: 520px;
-}
-
-.coach-card {
-  padding: 36px;
-}
 
 /* --- Buttons --- */
 .cta-button {
