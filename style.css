@@ -177,10 +177,7 @@ p {
 }
 
 .event-card-link {
-  display: flex;
-  flex-direction: row;
-  align-items: stretch;
-  width: 100%;
+  flex: 1;
   text-decoration: none;
   color: inherit;
 }
@@ -198,6 +195,17 @@ p {
   color: #fff;
   padding: 20px 28px;
   min-width: 100px;
+  transition: background 0.2s;
+}
+
+a.event-date-badge {
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+a.event-date-badge:hover {
+  background: var(--primary-hover);
 }
 
 .event-month {
@@ -243,7 +251,7 @@ p {
     flex-direction: column;
   }
   .event-card-link {
-    flex-direction: column;
+    flex: 1;
   }
   .event-date-badge {
     flex-direction: row;
