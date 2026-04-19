@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-06-16-girls-camp@gettysburgwrestling.com
+SUMMARY:2026 Gettysburg Girls Wrestling Camps
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260619
+LOCATION:Gettysburg High School\, 1130 Old Harrisburg Rd\, Gettysburg\, PA
+DESCRIPTION:Day Camp: 9 AM - 3 PM\, $70\n\nHS/College Camp - Resident Camp: $150\, 3 sessions per day\, Commuter Camper or Resident Camper\n\nClinicians: Montana Delawder (4x Collegiate AA\, Pan Am Champion\, Fargo Champion\, U23 National Champion\, 4x High School State Champion) and Zoey Haines (3x High School State Champion\, 2x Fargo All American\, UWW All American\, Super 32 Finalist\, 148-17 High School Record with 118 Pins)\n\nContact: Chris Haines - chaines@gasd-pa.org
+END:VEVENT
+END:VCALENDAR
