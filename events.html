@@ -36,7 +36,7 @@
     <h2>Upcoming Events</h2>
     <p>Stay up to date with Gettysburg Wrestling events, tournaments, and camps.</p>
     <div class="events-list">
-      <article class="card event-card">
+      <article class="card event-card" data-end-date="2026-06-11">
         <a href="wrestling-camp-2026.ics" class="event-date-badge" title="Add to Calendar" download>
           <span class="event-month">Jun</span>
           <span class="event-day">9-11</span>
@@ -50,7 +50,7 @@
           <p class="event-description"><strong>Contact:</strong> Chris Haines &bull; <a href="mailto:chaines@gasd-pa.org">chaines@gasd-pa.org</a></p>
         </div>
       </article>
-      <article class="card event-card">
+      <article class="card event-card" data-end-date="2026-06-18">
         <a href="girls-wrestling-camp-2026.ics" class="event-date-badge" title="Add to Calendar" download>
           <span class="event-month">Jun</span>
           <span class="event-day">16-18</span>
@@ -64,7 +64,7 @@
           <p class="event-description"><strong>Contact:</strong> Chris Haines &bull; <a href="mailto:chaines@gasd-pa.org">chaines@gasd-pa.org</a></p>
         </div>
       </article>
-      <article class="card event-card">
+      <article class="card event-card" data-end-date="2026-08-07">
         <a href="golf-outing-2026.ics" class="event-date-badge" title="Add to Calendar" download>
           <span class="event-month">Aug</span>
           <span class="event-day">7</span>
@@ -79,6 +79,27 @@
       </article>
     </div>
   </main>
+
+  <script>
+    // Remove event cards once their end date has passed.
+    // Each card carries a data-end-date (YYYY-MM-DD) for the last day of the
+    // event; the card stays visible through the end of that day.
+    (function () {
+      var now = new Date();
+      var cards = document.querySelectorAll('.event-card[data-end-date]');
+      cards.forEach(function (card) {
+        var end = new Date(card.dataset.endDate + 'T23:59:59');
+        if (now > end) {
+          card.remove();
+        }
+      });
+      if (document.querySelectorAll('.event-card').length === 0) {
+        var message = document.createElement('p');
+        message.textContent = 'There are no upcoming events right now. Check back soon!';
+        document.querySelector('.events-list').appendChild(message);
+      }
+    })();
+  </script>
 
   <footer>
     <div>
