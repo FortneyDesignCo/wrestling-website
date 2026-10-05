@@ -112,7 +112,7 @@ nav ul li ul li a {
 /* --- Header / Hero Section --- */
 header {
   text-align: center;
-  padding: 12px 20px 8px;
+  padding: 12px 20px 4px;
   max-width: 980px;
   margin: 0 auto;
   background-color: transparent;
@@ -130,7 +130,7 @@ header h1 {
   width: auto;
   max-width: 100%;
   display: block;
-  margin: 0 auto 8px;
+  margin: 0 auto 4px;
   background-color: transparent;
 }
 
