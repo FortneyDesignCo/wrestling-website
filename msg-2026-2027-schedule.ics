@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//Middle School Girls 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Middle School Girls Wrestling 2026-2027
+
+BEGIN:VEVENT
+UID:2026-12-09-msg@gettysburgwrestling
+SUMMARY:Waynesboro (H) (MS Girls)
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+LOCATION:Home
+DESCRIPTION:Middle School Girls Wrestling - Waynesboro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-15-msg@gettysburgwrestling
+SUMMARY:State College (A) (MS Girls)
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+LOCATION:Away
+DESCRIPTION:Middle School Girls Wrestling - State College
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-17-msg@gettysburgwrestling
+SUMMARY:Central Dauphin (A) (MS Girls)
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+LOCATION:Away
+DESCRIPTION:Middle School Girls Wrestling - Central Dauphin
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-19-msg@gettysburgwrestling
+SUMMARY:Big Spring Tournament (A) (MS Girls)
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+LOCATION:Away
+DESCRIPTION:Middle School Girls Wrestling - Big Spring Tournament
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-02-msg@gettysburgwrestling
+SUMMARY:Penn Manor Tournament (A) (MS Girls)
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+LOCATION:Away
+DESCRIPTION:Middle School Girls Wrestling - Penn Manor Tournament
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-07-msg@gettysburgwrestling
+SUMMARY:Camp Hill (H) (MS Girls)
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+LOCATION:Home
+DESCRIPTION:Middle School Girls Wrestling - Camp Hill
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-13-msg@gettysburgwrestling
+SUMMARY:Chambersburg (H) (MS Girls)
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+LOCATION:Home
+DESCRIPTION:Middle School Girls Wrestling - Chambersburg
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-18-msg@gettysburgwrestling
+SUMMARY:Manheim Township (A) (MS Girls)
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+LOCATION:Away
+DESCRIPTION:Middle School Girls Wrestling - Manheim Township
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-27-msg@gettysburgwrestling
+SUMMARY:Cumberland Valley (A) (MS Girls)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+LOCATION:Away
+DESCRIPTION:Middle School Girls Wrestling - Cumberland Valley
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-01-msg@gettysburgwrestling
+SUMMARY:Mifflin County (H) (MS Girls)
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+LOCATION:Home
+DESCRIPTION:Middle School Girls Wrestling - Mifflin County
+END:VEVENT
+
+END:VCALENDAR
