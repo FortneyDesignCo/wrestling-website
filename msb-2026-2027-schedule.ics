@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//Middle School Boys 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Middle School Boys Wrestling 2026-2027
+
+BEGIN:VEVENT
+UID:2026-12-09-msb@gettysburgwrestling
+SUMMARY:Waynesboro (H) (MS Boys)
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+LOCATION:Home
+DESCRIPTION:Middle School Boys Wrestling - Waynesboro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-17-msb@gettysburgwrestling
+SUMMARY:Central Dauphin (H) (MS Boys)
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+LOCATION:Home
+DESCRIPTION:Middle School Boys Wrestling - Central Dauphin
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-28-msb@gettysburgwrestling
+SUMMARY:Trojan Wars Tournament (A) (MS Boys)
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261230
+LOCATION:Away
+DESCRIPTION:Middle School Boys Wrestling - Trojan Wars Tournament at Chambersburg
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-09-msb@gettysburgwrestling
+SUMMARY:Gettysburg Duals (H) (MS Boys)
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+LOCATION:Home
+DESCRIPTION:Middle School Boys Wrestling - Gettysburg Duals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-12-msb@gettysburgwrestling
+SUMMARY:Mifflin County (A) (MS Boys)
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+LOCATION:Away
+DESCRIPTION:Middle School Boys Wrestling - Mifflin County
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-14-msb@gettysburgwrestling
+SUMMARY:Chambersburg (A) (MS Boys)
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+LOCATION:Away
+DESCRIPTION:Middle School Boys Wrestling - Chambersburg
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-19-msb@gettysburgwrestling
+SUMMARY:Cedar Cliff (A) (MS Boys)
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+LOCATION:Away
+DESCRIPTION:Middle School Boys Wrestling - Cedar Cliff
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-22-msb@gettysburgwrestling
+SUMMARY:Northern Tournament (A) (MS Boys)
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270124
+LOCATION:Away
+DESCRIPTION:Middle School Boys Wrestling - Northern Tournament at Northern
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-26-msb@gettysburgwrestling
+SUMMARY:New Oxford (H) (MS Boys)
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+LOCATION:Home
+DESCRIPTION:Middle School Boys Wrestling - New Oxford
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-28-msb@gettysburgwrestling
+SUMMARY:Cumberland Valley (H) (MS Boys)
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+LOCATION:Home
+DESCRIPTION:Middle School Boys Wrestling - Cumberland Valley
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-05-msb@gettysburgwrestling
+SUMMARY:Wilson West Lawn Tournament (A) (MS Boys)
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270207
+LOCATION:Away
+DESCRIPTION:Middle School Boys Wrestling - Wilson West Lawn Tournament
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-21-msb@gettysburgwrestling
+SUMMARY:PJW Qualifier (A) (MS Boys)
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+LOCATION:Away
+DESCRIPTION:Middle School Boys Wrestling - PJW Qualifier
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-28-msb@gettysburgwrestling
+SUMMARY:PJW States (A) (MS Boys)
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+LOCATION:Away
+DESCRIPTION:Middle School Boys Wrestling - PJW States
+END:VEVENT
+
+END:VCALENDAR
