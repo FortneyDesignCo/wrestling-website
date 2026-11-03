@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//High School Boys 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:High School Boys Wrestling 2026-2027
+
+BEGIN:VEVENT
+UID:2026-12-09-hsb@gettysburgwrestling
+SUMMARY:Waynesboro (H) (Boys)
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+LOCATION:Home
+DESCRIPTION:High School Boys Wrestling - Waynesboro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-11-hsb@gettysburgwrestling
+SUMMARY:Carlisle Tournament (A) (Boys)
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261213
+LOCATION:Away
+DESCRIPTION:High School Boys Wrestling - Carlisle Tournament
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-17-hsb@gettysburgwrestling
+SUMMARY:Central Dauphin (H) (Boys)
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+LOCATION:Home
+DESCRIPTION:High School Boys Wrestling - Central Dauphin
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-28-hsb@gettysburgwrestling
+SUMMARY:Trojan Wars (A) (Boys)
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261230
+LOCATION:Away
+DESCRIPTION:High School Boys Wrestling - Trojan Wars
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-02-hsb@gettysburgwrestling
+SUMMARY:Northern Lebanon Tournament (A) (Boys)
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270104
+LOCATION:Away
+DESCRIPTION:High School Boys Wrestling - Northern Lebanon Tournament
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-09-hsb@gettysburgwrestling
+SUMMARY:Gettysburg Duals (H) (Boys)
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+LOCATION:Home
+DESCRIPTION:High School Boys Wrestling - Gettysburg Duals: State College, Donegal, West Perry, Gettysburg, Lampeter-Strasburg, Greencastle
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-12-hsb@gettysburgwrestling
+SUMMARY:Mifflin County (A) (Boys)
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+LOCATION:Away
+DESCRIPTION:High School Boys Wrestling - Mifflin County
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-14-hsb@gettysburgwrestling
+SUMMARY:Chambersburg (A) (Boys)
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+LOCATION:Away
+DESCRIPTION:High School Boys Wrestling - Chambersburg
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-16-hsb@gettysburgwrestling
+SUMMARY:Exeter Duals (A) (Boys)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+LOCATION:Away
+DESCRIPTION:High School Boys Wrestling - Exeter Duals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-19-hsb@gettysburgwrestling
+SUMMARY:Cedar Cliff (A) (Boys)
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+LOCATION:Away
+DESCRIPTION:High School Boys Wrestling - Cedar Cliff
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-26-hsb@gettysburgwrestling
+SUMMARY:New Oxford (H) (Boys)
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+LOCATION:Home
+DESCRIPTION:High School Boys Wrestling - New Oxford
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-28-hsb@gettysburgwrestling
+SUMMARY:Cumberland Valley (H) (Boys)
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+LOCATION:Home
+DESCRIPTION:High School Boys Wrestling - Cumberland Valley
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-02-hsb@gettysburgwrestling
+SUMMARY:District Duals (Boys)
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+DESCRIPTION:High School Boys Wrestling - District Duals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-04-hsb@gettysburgwrestling
+SUMMARY:District Duals (Boys)
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+DESCRIPTION:High School Boys Wrestling - District Duals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-06-hsb@gettysburgwrestling
+SUMMARY:District Duals (Boys)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DESCRIPTION:High School Boys Wrestling - District Duals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-09-hsb@gettysburgwrestling
+SUMMARY:State Duals (Boys)
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+DESCRIPTION:High School Boys Wrestling - State Duals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-12-hsb@gettysburgwrestling
+SUMMARY:State Duals (Boys)
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270214
+DESCRIPTION:High School Boys Wrestling - State Duals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-20-hsb@gettysburgwrestling
+SUMMARY:Sectionals (Boys)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DESCRIPTION:High School Boys Wrestling - Sectionals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-26-hsb@gettysburgwrestling
+SUMMARY:Districts (Boys)
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270228
+DESCRIPTION:High School Boys Wrestling - Districts
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-03-11-hsb@gettysburgwrestling
+SUMMARY:States (Boys)
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270314
+DESCRIPTION:High School Boys Wrestling - States
+END:VEVENT
+
+END:VCALENDAR
