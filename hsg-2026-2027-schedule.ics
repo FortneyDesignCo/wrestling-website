@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//High School Girls 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:High School Girls Wrestling 2026-2027
+
+BEGIN:VEVENT
+UID:2026-12-09-hsg@gettysburgwrestling
+SUMMARY:Waynesboro (H) (Girls)
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+LOCATION:Home
+DESCRIPTION:High School Girls Wrestling - Waynesboro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-12-hsg@gettysburgwrestling
+SUMMARY:Home Duals (H) (Girls)
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+LOCATION:Home
+DESCRIPTION:High School Girls Wrestling - Home Duals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-15-hsg@gettysburgwrestling
+SUMMARY:State College (A) (Girls)
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+LOCATION:Away
+DESCRIPTION:High School Girls Wrestling - State College
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-17-hsg@gettysburgwrestling
+SUMMARY:Central Dauphin (A) (Girls)
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+LOCATION:Away
+DESCRIPTION:High School Girls Wrestling - Central Dauphin
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-19-hsg@gettysburgwrestling
+SUMMARY:Big Spring Tournament (A) (Girls)
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+LOCATION:Away
+DESCRIPTION:High School Girls Wrestling - Big Spring Tournament
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-02-hsg@gettysburgwrestling
+SUMMARY:Penn Manor Tournament (A) (Girls)
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+LOCATION:Away
+DESCRIPTION:High School Girls Wrestling - Penn Manor Tournament
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-07-hsg@gettysburgwrestling
+SUMMARY:Camp Hill (H) (Girls)
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+LOCATION:Home
+DESCRIPTION:High School Girls Wrestling - Camp Hill
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-10-hsg@gettysburgwrestling
+SUMMARY:Cumberland Valley Duals (A) (Girls)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+LOCATION:Away
+DESCRIPTION:High School Girls Wrestling - Cumberland Valley Duals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-13-hsg@gettysburgwrestling
+SUMMARY:Chambersburg (H) (Girls)
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+LOCATION:Home
+DESCRIPTION:High School Girls Wrestling - Chambersburg
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-18-hsg@gettysburgwrestling
+SUMMARY:Manheim Township (A) (Girls)
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+LOCATION:Away
+DESCRIPTION:High School Girls Wrestling - Manheim Township
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-22-hsg@gettysburgwrestling
+SUMMARY:Exeter Dual (A) (Girls)
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+LOCATION:Away
+DESCRIPTION:High School Girls Wrestling - Exeter Dual
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-27-hsg@gettysburgwrestling
+SUMMARY:Cumberland Valley (A) (Girls)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+LOCATION:Away
+DESCRIPTION:High School Girls Wrestling - Cumberland Valley
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-02-01-hsg@gettysburgwrestling
+SUMMARY:Mifflin County (H) (Girls)
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+LOCATION:Home
+DESCRIPTION:High School Girls Wrestling - Mifflin County
+END:VEVENT
+
+END:VCALENDAR
