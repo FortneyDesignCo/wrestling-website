@@ -8,7 +8,7 @@
   --text-main: #1d1d1f;
   --text-secondary: #86868b;
   --radius: 18px;
-  --transition: all 0.3s cubic-bezier(0,0,0.5,1);
+  --transition: transform 0.3s cubic-bezier(0,0,0.5,1), box-shadow 0.3s cubic-bezier(0,0,0.5,1), background-color 0.3s ease, color 0.3s ease, opacity 0.3s ease, border-color 0.3s ease;
 }
 
 * {
@@ -289,7 +289,7 @@ a.event-date-badge:hover {
 }
 
 .card:hover {
-  transform: scale(1.02);
+  transform: translateY(-4px);
   box-shadow: 0 12px 32px rgba(0,0,0,0.08);
 }
 
@@ -438,6 +438,12 @@ input[type="submit"]:hover {
   border: 1px solid #e5e5e7;
   border-radius: 12px;
   background: #fafafa;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.schedule-list li:hover {
+  background: #ffffff;
+  border-color: #d2d2d7;
 }
 
 .schedule-date {
@@ -483,4 +489,53 @@ input[type="submit"]:hover {
   }
   nav ul li ul li a { font-size: 15px; padding: 10px 12px; }
   .schedule-list li { grid-template-columns: 90px 1fr auto; }
+}
+
+/* --- Motion & Feel --- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  -webkit-tap-highlight-color: transparent;
+}
+
+main {
+  animation: page-in 0.45s ease-out both;
+}
+
+@keyframes page-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent-gold);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: var(--primary-maroon);
+  color: #fff;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  main {
+    animation: none;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+  }
 }
