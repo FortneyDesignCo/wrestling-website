@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-10-girls-clinic@gettysburgwrestling.com
+DTSTAMP:20261105T120000Z
+SUMMARY:Girls Wrestling Clinic
+DTSTART:20261111T000000Z
+DTEND:20261111T011500Z
+LOCATION:Gettysburg Area High School
+DESCRIPTION:Learn fundamental moves and technique from Gettysburg College wrestling coach Chris Haines and assistant coach Montana DeLawder.\n\nQ&A for parents at the end. No wrestling equipment needed\, just athletic wear and socks.\n\nQuestions about girls wrestling? Email reichartkaitlin@gmail.com
+END:VEVENT
+END:VCALENDAR
