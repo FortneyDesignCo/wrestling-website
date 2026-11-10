@@ -390,15 +390,15 @@ footer a:hover .social-icon {
 
 /* Agenda view replaces the cramped month grid on small screens. */
 .embed-agenda {
-  display: none;
+  display: none !important;
 }
 
 @media (max-width: 600px) {
   .embed-month {
-    display: none;
+    display: none !important;
   }
   .embed-agenda {
-    display: block;
+    display: block !important;
     aspect-ratio: 3 / 4;
   }
 }
