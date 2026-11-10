@@ -1,4 +1,6 @@
 /* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&display=swap');
+
 :root {
   --primary-maroon: #800000;
   --primary-hover: #5e0000;
@@ -151,10 +153,23 @@ main {
 }
 
 h2 {
+  font-family: 'Oswald', 'Arial Narrow', sans-serif;
   font-size: 32px;
   font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
   margin-bottom: 20px;
   text-align: center;
+}
+
+h2::after {
+  content: "";
+  display: block;
+  width: 52px;
+  height: 4px;
+  background: var(--primary-maroon);
+  border-radius: 2px;
+  margin: 10px auto 0;
 }
 
 p {
