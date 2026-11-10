@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-17-alumni-night@gettysburgwrestling.com
+DTSTAMP:20261110T120000Z
+SUMMARY:Alumni Night: Gettysburg Boys Wrestling vs Central Dauphin
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+LOCATION:Gettysburg Area High School
+DESCRIPTION:The Warriors host Central Dauphin for Alumni Night.
+END:VEVENT
+END:VCALENDAR
