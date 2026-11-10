@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-02-01-girls-senior-night@gettysburgwrestling.com
+DTSTAMP:20261110T120000Z
+SUMMARY:Girls Senior Night: Gettysburg Girls Wrestling vs Mifflin County
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+LOCATION:Gettysburg Area High School
+DESCRIPTION:The Warriors host Mifflin County for Girls Senior Night.
+END:VEVENT
+END:VCALENDAR
