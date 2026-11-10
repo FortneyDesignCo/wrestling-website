@@ -172,6 +172,11 @@ h2::after {
   margin: 10px 0 0;
 }
 
+/* Cards center their flex children; a heading inside a card still hugs the left. */
+.card > h2 {
+  align-self: flex-start;
+}
+
 p {
   font-size: 17px;
   color: var(--text-secondary);
