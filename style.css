@@ -385,7 +385,7 @@ footer a:hover .social-icon {
   flex-wrap: wrap;
   gap: 16px 32px;
   justify-content: center;
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 /* Agenda view replaces the cramped month grid on small screens. */
