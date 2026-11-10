@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gettysburg Wrestling//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-01-26-youth-night@gettysburgwrestling.com
+DTSTAMP:20261110T120000Z
+SUMMARY:Youth Night and Mini-thon Black Out Night: Gettysburg Boys Wrestling vs New Oxford
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+LOCATION:Gettysburg Area High School
+DESCRIPTION:The Warriors host New Oxford for Youth Night and the Mini-thon Black Out Night.
+END:VEVENT
+END:VCALENDAR
