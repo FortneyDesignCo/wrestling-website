@@ -380,8 +380,25 @@ footer a:hover .social-icon {
   border-radius: 12px;
 }
 
+.calendar-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Agenda view replaces the cramped month grid on small screens. */
+.embed-agenda {
+  display: none;
+}
+
 @media (max-width: 600px) {
-  .embed-frame {
+  .embed-month {
+    display: none;
+  }
+  .embed-agenda {
+    display: block;
     aspect-ratio: 3 / 4;
   }
 }
