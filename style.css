@@ -159,7 +159,7 @@ h2 {
   letter-spacing: 0.02em;
   text-transform: uppercase;
   margin-bottom: 20px;
-  text-align: center;
+  text-align: left;
 }
 
 h2::after {
@@ -169,7 +169,7 @@ h2::after {
   height: 4px;
   background: var(--primary-maroon);
   border-radius: 2px;
-  margin: 10px auto 0;
+  margin: 10px 0 0;
 }
 
 p {
